@@ -2,22 +2,25 @@
 venv/
 .venv/
 
-# Arquivos temporários do Python
+# Cache do Python
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
 
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-# Configurações de editores
+# Configurações de IDE
 .vscode/
 .idea/
 
 # Variáveis de ambiente
 .env
 
-# Dados brutos e processados
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dados brutos e processados (opcional)
 data/raw/*.csv
 data/processed/*.csv
 
