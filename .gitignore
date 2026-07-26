@@ -1,0 +1,26 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Variáveis de ambiente
+.env
+
+# Dados brutos e processados
+data/raw/*.csv
+data/processed/*.csv
+
+# Mantém as pastas no Git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
