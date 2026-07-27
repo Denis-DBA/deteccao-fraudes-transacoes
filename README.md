@@ -7,22 +7,23 @@ Projeto desenvolvido para identificar transações fraudulentas utilizando técn
 # 📂 Estrutura do Projeto
 
 ```text
-deteccao-fraudes-transacoes/
+
+📂 deteccao-fraudes-cartao-credito
 │
-├── data/
-│   ├── raw/
-│   └── processed/
+├── 📄 README.md
+├── 📄 requirements.txt
+├── 📄 LICENSE
 │
-├── images/
+├── 📂 notebooks
+│   └── 📄 Projeto_Detecção_de_Fraudes.ipynb
 │
-├── notebooks/
+├── 📂 data
+│   ├── 📂 raw
+│   └── 📂 processed
 │
-├── src/
+├── 📂 images
 │
-├── .gitignore
-├── README.md
-└── requirements.txt
-```
+└── 📂 src
 
 ---
 
