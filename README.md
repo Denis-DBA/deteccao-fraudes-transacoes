@@ -18,12 +18,17 @@ Projeto desenvolvido para identificar transações fraudulentas utilizando técn
 │   └── 📄 Projeto_Detecção_de_Fraudes.ipynb
 │
 ├── 📂 dataset
-│   ├── 📂 raw
-│   └── 📂 processed
+│   └── 📄 creditcard.csv
 │
 ├── 📂 images
+│   ├── roc_curve.png
+│   ├── precision_recall_curve.png
+│   ├── confusion_matrix.png
+│   ├── comparacao_modelos.png
+│   └── distribuicao_classes.png
 │
-└── 📂 src
+└── 📂 docs
+    └── 📄 relatorio_projeto.md
 
 ---
 
