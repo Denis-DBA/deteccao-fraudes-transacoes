@@ -21,12 +21,12 @@ Projeto desenvolvido para identificar transações fraudulentas utilizando técn
 │   └── 📄 creditcard.csv
 │
 ├── 📂 images
-│   ├── roc_curve.png
-│   ├── precision_recall_curve.png
-│   ├── confusion_matrix.png
-│   ├── comparacao_modelos.png
-│   └── distribuicao_classes.png
-│
+│   ├── 📄 tabela_comparativa_abordagens.png
+│   ├── 📄 roc_curve.png
+│   ├── 📄 precision_recall_curve.png
+│   ├── 📄 comparacao_modelos.png
+│   └── 📄 confusion_matrix.png
+│ 
 └── 📂 docs
     └── 📄 relatorio_projeto.md
 
