@@ -17,7 +17,7 @@ Projeto desenvolvido para identificar transações fraudulentas utilizando técn
 ├── 📂 notebooks
 │   └── 📄 Projeto_Detecção_de_Fraudes.ipynb
 │
-├── 📂 data
+├── 📂 dataset
 │   ├── 📂 raw
 │   └── 📂 processed
 │
