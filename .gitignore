@@ -1,29 +1,9 @@
-# Ambiente virtual
-venv/
-.venv/
+# Dataset
+data/raw/creditcard.csv
 
-# Cache do Python
+# Arquivos temporários do Python
 __pycache__/
-*.py[cod]
+*.pyc
 
-# Jupyter Notebook
+# Arquivos do Jupyter
 .ipynb_checkpoints/
-
-# Configurações de IDE
-.vscode/
-.idea/
-
-# Variáveis de ambiente
-.env
-
-# Arquivos do sistema operacional
-.DS_Store
-Thumbs.db
-
-# Dados brutos e processados (opcional)
-data/raw/*.csv
-data/processed/*.csv
-
-# Mantém as pastas no Git
-!data/raw/.gitkeep
-!data/processed/.gitkeep
